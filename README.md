@@ -23,15 +23,13 @@ This project evaluates the business performance of Airbnb across **10 major glob
 ### 📊 Dashboard Snapshots & Previews
 
 #### 1. New Listings & Growth Lifecycle Analysis
-![New Listings and Growth Trends](screenshot1.png)
+![New Listings and Growth Trends][(screenshot1.png)]
 
 #### 2. Market Share & Pricing Mechanics
-![Market Share and Pricing](screenshot2.png)
+![Market Share and Pricing] [(screenshot2.png)]
 
 #### 3. Granular Customer Ratings Matrix
-![Ratings Dashboard](screenshot3.png)
-
-*(Note: Make sure your uploaded image files are named exactly `screenshot1.png`, `screenshot2.png`, and `screenshot3.png` in your main GitHub folder so they link automatically!)*
+![Ratings Dashboard] [(screenshot3.png)]
 
 ---
 
